@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **coffe ❤**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brahim024&show_icons=true&theme=radical)
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://fb.com/brahim boughanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="brahim boughanm" height="30" width="40" /></a>
