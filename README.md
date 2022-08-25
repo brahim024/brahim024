@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm brahim</h1>
 <h3 align="center">A backend developer from morocco</h3>
 
-- 🔭 I’m currently working on **Vscode** ** Vim**
+
+- 🔭 I’m currently working on **Vscode** **Vim**
 
 - 🌱 I’m currently learning **python and django and math**
 
@@ -11,6 +12,7 @@
 
 - ⚡ Fun fact **coffe ❤**
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brahim024&show_icons=true&theme=radical)
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -18,4 +20,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-plain.svg" alt="php" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="php" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg" alt="php" width="45" height="45"/>
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain.svg" alt="php" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" alt="php" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" alt="php" width="45" height="45"/>
+
+  
+</p>
