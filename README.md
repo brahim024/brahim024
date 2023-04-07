@@ -33,5 +33,4 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" alt="php" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" alt="php" width="45" height="45"/>
 
-  
 </p>
